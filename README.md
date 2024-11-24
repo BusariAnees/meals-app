@@ -20,6 +20,10 @@ Technology Stack:
 Target Audience:
 
 The app is designed for food enthusiasts, home cooks, or anyone interested in exploring new recipes and managing their meals with ease.
+
+##screenshots
+![meals app](screenshot1.png)
+
 ## Installation
 
 To run this project locally on your machine, follow these steps:
