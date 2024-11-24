@@ -21,8 +21,14 @@ Target Audience:
 
 The app is designed for food enthusiasts, home cooks, or anyone interested in exploring new recipes and managing their meals with ease.
 
-##screenshots
+## screenshots
+
 ![meals app](screenshot1.png)
+![meals app](screenshot2.png)
+![meals app](screenshot3.png)
+![meals app](screenshot4.png)
+![meals app](screenshot5.png)
+![meals app](screenshot6.png)
 
 ## Installation
 
